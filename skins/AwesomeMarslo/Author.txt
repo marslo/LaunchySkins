@@ -1,0 +1,12 @@
+Skin title: CMD sbx
+Autor: Sebastian Schulz
+Version: 1.1
+Date: January/11/2014
+From: Freigericht - Germany
+
+This skin is inspired by the Win7 command prompt.
+
+Use 9 visible alternatives.
+
+
+Contact me per s.schulz@tgs-somborn.de if you like.
