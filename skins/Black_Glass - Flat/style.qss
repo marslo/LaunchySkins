@@ -6,7 +6,7 @@
 }
 
 #input {
-	font: 14px Segoe UI;
+	font: 14px Consolas;
 	border-width: 0px;
 	background-color: rgba(0,244,120,0%);
 	border-style: solid;
@@ -16,7 +16,7 @@
 }
 
 #output {
-	font: 14px Segoe UI;
+	font: 14px Consolas;
 	border-width: 0px;
 	background-color: rgba(0,244,120,0%);
 	border-style: solid;
@@ -30,7 +30,7 @@
 }
 
 #alternatives {
-	font: 12px Segoe UI;
+	font: 12px Consolas;
 	background-color: black;
 	alternate-background-color: black;
 	color: white;
@@ -43,7 +43,7 @@
 }
 
 #alternativesPath {
-	font: 12px Segoe UI;
+	font: 12px Consolas;
 	color: rgb(221,221,221);
 }
 
